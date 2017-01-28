@@ -1,5 +1,5 @@
 The motivation of this project was just to learn and play with the grammer of Shiny, HighCharts and Leaflets. The 2011 census data for 
-around 500 cities of India were analysed and was visualised using Maps, Columns and Tree Map. The data cities_r2.csv was analysed on important variables such as 
+around 500 cities of India were analysed and was visualised using Maps, Columns and Tree Map. The data `cities_r2.csv` was analysed on important variables such as 
 sex ratio and effective literacy rate in order to show which all cities and states least females to males ratio and literates compared to the whole population of the city or state.
 
 'name_of_city'                  :     Name of the City  
